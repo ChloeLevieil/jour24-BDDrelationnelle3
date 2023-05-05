@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Ce projet nous a fait travailler sur les bases de données relationnelles. 
